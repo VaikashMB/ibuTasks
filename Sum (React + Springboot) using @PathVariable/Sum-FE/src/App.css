@@ -1,0 +1,13 @@
+.numbers{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 30px;
+}
+.button{
+  margin-left: 31px;
+}
+.sumText{
+  padding: 20px;
+  margin-left: 10px;
+}
